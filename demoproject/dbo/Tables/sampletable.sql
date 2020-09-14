@@ -4,5 +4,6 @@
     [name] VARCHAR(50) NULL, 
     [age] VARCHAR(50) NULL, 
     [phone] VARCHAR(50) NULL, 
-    [email] VARCHAR(50) NULL
+    [email] VARCHAR(50) NULL, 
+    [reg_no] VARCHAR(50) NULL
 )
